@@ -1,0 +1,27 @@
+{
+  "name": "lotus",
+  "version": "1.0.0",
+  "description": "A cli application that is used has a todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfsgoncalves/lotus.git"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "todolist"
+  ],
+  "author": "cgoncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfsgoncalves/lotus/issues"
+  },
+  "homepage": "https://github.com/cfsgoncalves/lotus#readme",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
